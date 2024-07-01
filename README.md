@@ -1,4 +1,4 @@
-```yaml {hl_lines="11-14",linenos=true}
+```yaml {hl_lines="5-7",linenos=true}
 services:
   ok-api:
     image: ok-api
